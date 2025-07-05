@@ -1,0 +1,5 @@
+# Created at 2025-07-03T00:32:26.410
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Learnings\Program in Cloud Computing and DevOps\Project\CD Jenkins-S3-backup\CIProject\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
